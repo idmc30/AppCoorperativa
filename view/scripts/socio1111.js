@@ -1,0 +1,1 @@
+//alert("estoy en la parte de socio");

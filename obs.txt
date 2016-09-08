@@ -1,0 +1,3 @@
+socio : no se puede editar socio creado
+	falta validacion de campos: DNI, Telefono, Celular
+

@@ -1,0 +1,2 @@
+FEHCA POR PAGO ->index.php?page=reportes&accion=pagosxFecha
+DEPOSITO RETIRO->index.php?page=reportes&accion=DepositosRetiros
